@@ -1,0 +1,38 @@
+/* Set Style for Body Text */
+
+body{
+
+  background-color: lightgrey;
+  font-family: "Arial";
+  font-size: 12pt;
+
+}
+
+/* Set Style for Headings on the Page  */
+
+h1{
+
+ font-family: "Arial";
+ font-size: 16pt;
+ font-style: bold;
+
+
+}
+
+
+/* Set Image Formatting on the Page */
+img
+
+
+{
+
+   width: 400px;
+   height: 480px;
+   padding: 5px;
+   padding-top: 5px;
+   vertical-align: text-top;
+   float: right;
+             	  
+
+
+}
